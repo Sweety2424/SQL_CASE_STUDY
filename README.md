@@ -1,5 +1,6 @@
 # SQL_CASE_STUDY
-Analyzing Marketing Campaign Success for Sustainable Clothing - A Marketing Analyst's Case Study in SQL
+Analyzing Marketing Campaign Success for Sustainable Clothing - A Marketing Analyst's Case Study in SQL.
+QUESTIONS:
 1. How many transactions were completed during each marketing campaign?
 2. Which product had the highest sales quantity?
 3. What is the total revenue generated from each marketing campaign?
